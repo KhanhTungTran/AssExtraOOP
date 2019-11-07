@@ -1,0 +1,9 @@
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\bin\Debug\AssExtra.exe.config
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\bin\Debug\AssExtra.exe
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\bin\Debug\AssExtra.pdb
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.csprojAssemblyReference.cache
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.Form1.resources
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.Properties.Resources.resources
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.csproj.GenerateResource.cache
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.exe
+C:\Users\tktun\Desktop\HK191\OOP\AssExtra\AssExtra\AssExtra\obj\Debug\AssExtra.pdb
