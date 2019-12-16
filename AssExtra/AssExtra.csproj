@@ -46,18 +46,55 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Choosing_method.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Choosing_method.Designer.cs">
+      <DependentUpon>Choosing_method.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bill_preview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill_preview.Designer.cs">
+      <DependentUpon>Bill_preview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Display_field.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Display_field.Designer.cs">
+      <DependentUpon>Display_field.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Option.Designer.cs">
+      <DependentUpon>Option.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_form.Designer.cs">
+      <DependentUpon>Order_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program_Form\ExtraClass\Engine.cs" />
     <Compile Include="IDrink.cs" />
     <Compile Include="IDrinks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Bill_Preview.resx">
+      <DependentUpon>Bill_preview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choosing_method.resx">
+      <DependentUpon>Choosing_method.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Display_field.resx">
+      <DependentUpon>Display_field.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Option.resx">
+      <DependentUpon>Option.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_form.resx">
+      <DependentUpon>Order_form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -67,6 +104,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -83,6 +121,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="NewFile1.txt" />
+    <None Include="Resources\menu_background_white.png" />
+    <None Include="Resources\menu_background.jpg" />
+    <None Include="Resources\tra_sưa_pic.jpg" />
+    <None Include="Resources\tra_dao_pic.jpg" />
+    <None Include="Resources\tra_chanh_pic.jpg" />
+    <None Include="Resources\hong_tra_pc.jpg" />
+    <None Include="Resources\cafe_pic.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
